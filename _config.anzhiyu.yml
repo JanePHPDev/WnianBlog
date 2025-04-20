@@ -28,9 +28,9 @@ nav:
         - name: 本站
           link: #
           icon: /img/favicon.ico
-        - name: 勿念影视
+        - name: 无限影音
           link: https://wunian.netlify.app
-          icon: /img/favicon.ico
+          icon: https://wunian.netlify.app/appIcon.png
     - title: 其它
       item:
         - name: 师傅博客
