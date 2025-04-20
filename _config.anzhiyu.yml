@@ -247,8 +247,11 @@ reward:
   enable: true
   QR_code:
     - img: https://wunian.netlify.app/img/IMG183624.png
-      link:
-      text: 微信
+      link: https://wunian.netlify.app/img/IMG183624.png
+      text: 微信赞赏
+    - img: https://cdn.mengze.vip/gh/YShenZe/Blog-Static-Resource@main/images/20250420_133943_122.png
+      link: https://cdn.mengze.vip/gh/YShenZe/Blog-Static-Resource@main/images/20250420_133943_122.png
+      text: 微信收款
 
 # Post edit
 # Easily browse and edit blog source code online.
