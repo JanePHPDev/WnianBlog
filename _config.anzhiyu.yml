@@ -246,7 +246,7 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://cdn.mengze.vip/gh/YShenZe/Blog-Static-Resource@main/images/Image_131639135902922.jpg
+    - img: https://wunian.netlify.app/img/IMG183624.png
       link:
       text: 微信
 
