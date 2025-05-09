@@ -12,7 +12,7 @@ menu:
      音乐馆: /music/ || anzhiyu-icon-music
      追番页: /bangumis/ || anzhiyu-icon-bilibili
      相册集: /album/ || anzhiyu-icon-images
-     空调房: /air-conditioner/ || anzhiyu-icon-shoe-prints1
+     空调房: /air-conditioner/ || anzhiyu-icon-paper-plane
 
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
@@ -235,7 +235,7 @@ post_copyright:
   enable: true
   decode: false
   author_href:
-  location: 长沙
+  location: 陕西
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
   avatarSinks: false # hover时头像下沉
@@ -1185,7 +1185,7 @@ greetingBox:
 
 # 文章顶部ai摘要
 post_head_ai_description:
-  enable: ture
+  enable: false
   gptName: AnZhiYu
   mode: tianli # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
@@ -1208,7 +1208,7 @@ accesskey:
 # 友情链接顶部相关配置
 linkPageTop:
   enable: false
-  title: 与数百名博主无限进步
+  title: 与师傅梦泽不断进步
   # 添加博主友链的评论自定义格式
   addFriendPlaceholder: "昵称（请勿包含博客等字样）：\n网站地址（要求博客地址，请勿提交个人主页）：\n头像图片url（请提供尽可能清晰的图片，我会上传到我自己的图床）：\n描述：\n站点截图（可选）：\n"
 
